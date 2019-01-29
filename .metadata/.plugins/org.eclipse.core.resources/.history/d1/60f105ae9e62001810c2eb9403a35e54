@@ -1,0 +1,12 @@
+package demo3;
+
+public class program9 {
+
+	public static void main(String[] args) {
+		System.out.println();
+		main(new string[0]);
+		// TODO Auto-generated method stub
+
+	}
+
+}
